@@ -26,4 +26,4 @@ def registation():
 
 registation()
 
-root.mainloop()#без него окошко не будет
+root.mainloop()
